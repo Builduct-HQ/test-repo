@@ -1,0 +1,13 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Test repo for testing indexing with Teed",
+  "main": "index.js",
+  "repository": "https://github.com/Builduct-HQ/test-repo.git",
+  "author": "Daniel Yeboah <daniel.builduct@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0"
+  }
+}
